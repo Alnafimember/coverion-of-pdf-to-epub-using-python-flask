@@ -15,17 +15,14 @@ git clone https://github.com/your-username/pdf-to-epub-flask.git
 cd pdf-to-epub-flask
 Create a virtual environment and activate it:
 
-----------------------------------
 
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
-----------------------------------
 
 Install the required dependencies:
 pip install -r requirements.txt
 
-----------------------------------
 
 Run the Flask application:
 Open your web browser and go to http://127.0.0.1:5000/
